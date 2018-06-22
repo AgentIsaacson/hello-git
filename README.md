@@ -7,3 +7,6 @@ print('Heyo')
 
 
 print('Hi')
+
+
+#made changes for merge conflict demo
